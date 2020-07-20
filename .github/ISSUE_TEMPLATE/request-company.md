@@ -2,7 +2,7 @@
 name: Request Company
 about: Request a new company added in the database
 title: ''
-labels: Company
+labels: company
 assignees: StevenThuriot
 
 ---
